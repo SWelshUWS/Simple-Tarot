@@ -26,3 +26,8 @@ For card definitions, check out https://labyrinthos.co/blogs/tarot-card-meanings
   
   
 This will eventually be expanded to include reversed cards and hopefully some cool graphics (ha). Would also be good to provide card meanings from the web at some point.
+
+
+![image](https://user-images.githubusercontent.com/91130584/168424475-6514e172-8c25-4c89-9d36-e654030ad0fe.png)
+
+
