@@ -9,6 +9,20 @@ Readings include:
 To compile: 
   * $git clone https://github.com/SWelshUWS/Simple-Tarot
   * $gcc -o tarot tarot.c
-  * then run with $./tarot
+  * then run with $./tarot [options]
 
+Basic Usage:
+tarot [options] 
+
+=====================================================
+
+         -h:    display basic usage info and exit.
+         -v:    show display version and exit
+         -s:    single card reading
+         -t:    triple card reading
+         -c:    celtic-cross style reading
+
+For card definitions, check out https://labyrinthos.co/blogs/tarot-card-meanings-lis
+  
+  
 This will eventually be expanded to include reversed cards and hopefully some cool graphics (ha). Would also be good to provide card meanings from the web at some point.
