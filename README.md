@@ -14,7 +14,6 @@ To compile:
 Basic Usage:
 tarot [options] 
 
-=====================================================
 
          -h:    display basic usage info and exit.
          -v:    show display version and exit
