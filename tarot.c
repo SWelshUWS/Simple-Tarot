@@ -31,10 +31,11 @@
 
 
 /*
-      *** still to do ***
+      TODO
 
       1) need to stop double cards from coming up
       2) include reversals
+      3) change sleep(1) for user pressing enter (adds more randomness to card choice
 
 
 */
@@ -185,6 +186,7 @@ int tripleCard(){
 
     }
     printf("%d - %s \n", cards[i], name);
+   
     sleep(1);
   }
   printf("\n**************************\n\n" );
